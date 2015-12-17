@@ -12,4 +12,8 @@
 - Basic of how web work
 - What is javascript
 - How to use external javascript file
-- 
+- change body background color and some text which is in body.
+
+### Chapter 2
+
+
