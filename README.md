@@ -64,4 +64,5 @@
 
 Decisions and Loops
 
-
+- Comparison Operator
+- Logical Operator
